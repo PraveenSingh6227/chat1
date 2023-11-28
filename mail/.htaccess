@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^mail\.primeimmigrations\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.mail\.primeimmigrations\.com$
+RewriteRule ^/?$ "https\:\/\/primeimmigrations\.com\:2096\/" [R=301,L]
+

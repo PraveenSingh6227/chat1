@@ -1,0 +1,8 @@
+[13-Nov-2023 00:13:03 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'primeimm_prime_ur'@'localhost' to database 'abhi_admin' in /home1/primeimm/public_html/admin/export-data.php:14
+Stack trace:
+#0 /home1/primeimm/public_html/admin/export-data.php(14): mysqli_connect('localhost', 'primeimm_prime_...', Object(SensitiveParameterValue), 'abhi_admin')
+#1 {main}
+  thrown in /home1/primeimm/public_html/admin/export-data.php on line 14
+[21-Nov-2023 16:01:05 Asia/Calcutta] PHP Warning:  Undefined array key "id" in /home1/primeimm/public_html/admin/include/header.php on line 4
+[21-Nov-2023 16:01:06 Asia/Calcutta] PHP Warning:  Undefined array key "id" in /home1/primeimm/public_html/admin/include/header.php on line 4
+[21-Nov-2023 16:01:07 Asia/Calcutta] PHP Warning:  Undefined array key "id" in /home1/primeimm/public_html/admin/include/header.php on line 4

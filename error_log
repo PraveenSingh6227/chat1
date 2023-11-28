@@ -1,0 +1,49 @@
+[14-Nov-2023 21:06:46 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home1/primeimm/public_html/phpmailer/class.smtp.php:388
+Stack trace:
+#0 /home1/primeimm/public_html/phpmailer/class.phpmailer.php(763): SMTP->Data('Date: Tue, 14 N...')
+#1 /home1/primeimm/public_html/phpmailer/class.phpmailer.php(578): PHPMailer->SmtpSend('Date: Tue, 14 N...', ' Name: Arturo L...')
+#2 /home1/primeimm/public_html/mailcode.php(36): PHPMailer->Send()
+#3 {main}
+  thrown in /home1/primeimm/public_html/phpmailer/class.smtp.php on line 388
+[15-Nov-2023 06:06:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home1/primeimm/public_html/phpmailer/class.smtp.php:388
+Stack trace:
+#0 /home1/primeimm/public_html/phpmailer/class.phpmailer.php(763): SMTP->Data('Date: Wed, 15 N...')
+#1 /home1/primeimm/public_html/phpmailer/class.phpmailer.php(578): PHPMailer->SmtpSend('Date: Wed, 15 N...', ' Name: 1<br> Em...')
+#2 /home1/primeimm/public_html/mailcode.php(36): PHPMailer->Send()
+#3 {main}
+  thrown in /home1/primeimm/public_html/phpmailer/class.smtp.php on line 388
+[15-Nov-2023 06:06:37 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home1/primeimm/public_html/phpmailer/class.smtp.php:388
+Stack trace:
+#0 /home1/primeimm/public_html/phpmailer/class.phpmailer.php(763): SMTP->Data('Date: Wed, 15 N...')
+#1 /home1/primeimm/public_html/phpmailer/class.phpmailer.php(578): PHPMailer->SmtpSend('Date: Wed, 15 N...', ' Name: 1<br> Em...')
+#2 /home1/primeimm/public_html/mailcode.php(36): PHPMailer->Send()
+#3 {main}
+  thrown in /home1/primeimm/public_html/phpmailer/class.smtp.php on line 388
+[15-Nov-2023 10:09:42 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home1/primeimm/public_html/phpmailer/class.smtp.php:388
+Stack trace:
+#0 /home1/primeimm/public_html/phpmailer/class.phpmailer.php(763): SMTP->Data('Date: Wed, 15 N...')
+#1 /home1/primeimm/public_html/phpmailer/class.phpmailer.php(578): PHPMailer->SmtpSend('Date: Wed, 15 N...', ' Name: Leta Ivy...')
+#2 /home1/primeimm/public_html/mailcode.php(36): PHPMailer->Send()
+#3 {main}
+  thrown in /home1/primeimm/public_html/phpmailer/class.smtp.php on line 388
+[17-Nov-2023 06:37:22 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home1/primeimm/public_html/phpmailer/class.smtp.php:388
+Stack trace:
+#0 /home1/primeimm/public_html/phpmailer/class.phpmailer.php(763): SMTP->Data('Date: Fri, 17 N...')
+#1 /home1/primeimm/public_html/phpmailer/class.phpmailer.php(578): PHPMailer->SmtpSend('Date: Fri, 17 N...', ' Name: 1<br> Em...')
+#2 /home1/primeimm/public_html/mailcode.php(36): PHPMailer->Send()
+#3 {main}
+  thrown in /home1/primeimm/public_html/phpmailer/class.smtp.php on line 388
+[17-Nov-2023 06:37:22 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home1/primeimm/public_html/phpmailer/class.smtp.php:388
+Stack trace:
+#0 /home1/primeimm/public_html/phpmailer/class.phpmailer.php(763): SMTP->Data('Date: Fri, 17 N...')
+#1 /home1/primeimm/public_html/phpmailer/class.phpmailer.php(578): PHPMailer->SmtpSend('Date: Fri, 17 N...', ' Name: 1<br> Em...')
+#2 /home1/primeimm/public_html/mailcode.php(36): PHPMailer->Send()
+#3 {main}
+  thrown in /home1/primeimm/public_html/phpmailer/class.smtp.php on line 388
+[17-Nov-2023 22:33:27 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function each() in /home1/primeimm/public_html/phpmailer/class.smtp.php:388
+Stack trace:
+#0 /home1/primeimm/public_html/phpmailer/class.phpmailer.php(763): SMTP->Data('Date: Fri, 17 N...')
+#1 /home1/primeimm/public_html/phpmailer/class.phpmailer.php(578): PHPMailer->SmtpSend('Date: Fri, 17 N...', ' Name: Me<br> E...')
+#2 /home1/primeimm/public_html/mailcode.php(36): PHPMailer->Send()
+#3 {main}
+  thrown in /home1/primeimm/public_html/phpmailer/class.smtp.php on line 388
